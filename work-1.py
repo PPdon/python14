@@ -1,0 +1,11 @@
+print("Peeradon")
+print("Lordthong")
+print("P")
+print("18y")
+print("height 180 cm.")
+print("weight 70 kg.")
+print("20/04/2004")
+print("male")
+print("swim")
+print("Chonrasadornumrung")
+# Peeradon Lordthong no.15
